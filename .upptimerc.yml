@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Kerberos Public site
-    url: https://www.kerberos.io
+    url: https://kerberos.io
   - name: Kerberos Documentation
     url: https://doc.kerberos.io
   - name: Kerberos Agent Demo
