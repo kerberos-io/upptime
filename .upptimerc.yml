@@ -3,13 +3,13 @@ owner: kerberos-io # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Kerberos Public site
+  - name: Public site
     url: https://kerberos.io
-  - name: Kerberos Documentation
+  - name: Documentation
     url: https://doc.kerberos.io
-  - name: Kerberos Agent Demo
+  - name: Agent Demo
     url: https://demo.kerberos.io
-  - name: Kerberos Hub
+  - name: Hub
     url: https://app.kerberos.io
 
 status-website:
@@ -19,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://doc.kerberos.io/images/kerberos-logo.svg
   name: Kerberos.io
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Kerberos.io"
+  introMessage: A scalable video analytics and video management platform, build on top of Docker and Kubernetes, for everyone and everywhere.
   navbar:
     - title: Status
       href: /
