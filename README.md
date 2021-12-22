@@ -1,4 +1,4 @@
-# [📈 Live Status](https://kerberos..o): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.kerberos.io): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Kerberos.io](https://kerberos.io), powered by [Upptime](https://github.com/upptime/upptime).
 
