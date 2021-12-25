@@ -22,19 +22,19 @@
     "url": "https://doc.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/doc.kerberos.io",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 495,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 526,
+    "timeDay": 449,
+    "timeWeek": 526,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2021-12-25": 0
+      "2021-12-25": 8
     }
   },
   {
