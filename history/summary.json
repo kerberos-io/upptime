@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/kerberos.io",
     "slug": "public-site",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 733,
-    "timeDay": 507,
-    "timeWeek": 784,
+    "timeDay": 596,
+    "timeWeek": 673,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {
-      "2021-12-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/doc.kerberos.io",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 525,
-    "timeDay": 421,
-    "timeWeek": 551,
-    "timeMonth": 525,
-    "timeYear": 525,
-    "dailyMinutesDown": {
-      "2021-12-30": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 527,
+    "timeDay": 478,
+    "timeWeek": 507,
+    "timeMonth": 527,
+    "timeYear": 527,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Agent Demo",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/demo.kerberos.io",
     "slug": "agent-demo",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 695,
-    "timeDay": 588,
-    "timeWeek": 754,
-    "timeMonth": 695,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2021-12-30": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 696,
+    "timeDay": 623,
+    "timeWeek": 683,
+    "timeMonth": 696,
+    "timeYear": 696,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hub",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 501,
-    "timeWeek": 604,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "time": 570,
+    "timeDay": 639,
+    "timeWeek": 571,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   }
 ]
