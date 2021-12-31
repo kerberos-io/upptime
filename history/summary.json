@@ -4,28 +4,30 @@
     "url": "https://kerberos.io",
     "icon": "https://favicons.githubusercontent.com/kerberos.io",
     "slug": "public-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 733,
     "timeDay": 596,
     "timeWeek": 673,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-31": 1
+    }
   },
   {
     "name": "Documentation",
     "url": "https://doc.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/doc.kerberos.io",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
@@ -33,7 +35,9 @@
     "timeWeek": 507,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-31": 1
+    }
   },
   {
     "name": "Agent Demo",
