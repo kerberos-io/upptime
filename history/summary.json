@@ -4,36 +4,40 @@
     "url": "https://kerberos.io",
     "icon": "https://favicons.githubusercontent.com/kerberos.io",
     "slug": "public-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 743,
     "timeDay": 756,
-    "timeWeek": 755,
+    "timeWeek": 796,
     "timeMonth": 743,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 1
+    }
   },
   {
     "name": "Documentation",
     "url": "https://doc.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/doc.kerberos.io",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
     "timeDay": 601,
-    "timeWeek": 580,
+    "timeWeek": 608,
     "timeMonth": 538,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 1
+    }
   },
   {
     "name": "Agent Demo",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 707,
     "timeDay": 870,
-    "timeWeek": 741,
+    "timeWeek": 776,
     "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {}
