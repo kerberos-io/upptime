@@ -4,10 +4,10 @@
     "url": "https://kerberos.io",
     "icon": "https://favicons.githubusercontent.com/kerberos.io",
     "slug": "public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 741,
@@ -16,6 +16,7 @@
     "timeMonth": 707,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2022-02-17": 1,
       "2022-01-17": 15,
       "2022-01-06": 22
     }
@@ -25,11 +26,11 @@
     "url": "https://doc.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/doc.kerberos.io",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 554,
     "timeDay": 609,
@@ -37,6 +38,7 @@
     "timeMonth": 578,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2022-02-17": 1,
       "2022-01-17": 15,
       "2022-01-07": 23,
       "2022-01-06": 22
