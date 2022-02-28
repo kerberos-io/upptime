@@ -48,9 +48,9 @@
     "url": "https://demo.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/demo.kerberos.io",
     "slug": "agent-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -60,6 +60,7 @@
     "timeMonth": 685,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2022-02-18": 18,
       "2022-01-07": 23
     }
