@@ -69,19 +69,19 @@
     "url": "https://app.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/app.kerberos.io",
     "slug": "hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 456,
-    "timeWeek": 547,
-    "timeMonth": 577,
-    "timeYear": 570,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 568,
+    "timeDay": 437,
+    "timeWeek": 531,
+    "timeMonth": 572,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 28
     }
   }
 ]
