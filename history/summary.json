@@ -48,7 +48,7 @@
     "url": "https://demo.kerberos.io",
     "icon": "https://favicons.githubusercontent.com/demo.kerberos.io",
     "slug": "agent-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "83.22%",
     "uptimeWeek": "97.60%",
