@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 765,
-    "timeWeek": 556,
-    "timeMonth": 619,
-    "timeYear": 670,
-    "dailyMinutesDown": {
-      "2022-02-18": 18
-    }
+    "timeDay": 693,
+    "timeWeek": 593,
+    "timeMonth": 617,
+    "timeYear": 669,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 506,
-    "timeDay": 611,
-    "timeWeek": 471,
+    "timeDay": 573,
+    "timeWeek": 503,
     "timeMonth": 500,
-    "timeYear": 492,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2022-04-27": 42
     }
@@ -51,14 +49,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 809,
-    "timeDay": 478,
-    "timeWeek": 352,
-    "timeMonth": 383,
+    "timeDay": 429,
+    "timeWeek": 375,
+    "timeMonth": 382,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2022-04-14": 17,
-      "2022-04-13": 289,
-      "2022-02-18": 18
+      "2022-04-13": 289
     }
   },
   {
@@ -73,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 494,
-    "timeWeek": 374,
-    "timeMonth": 403,
-    "timeYear": 392,
+    "timeDay": 465,
+    "timeWeek": 403,
+    "timeMonth": 402,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-03-06": 28
     }
