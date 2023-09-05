@@ -67,19 +67,19 @@
     "url": "https://app.kerberos.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.kerberos.io.ico",
     "slug": "hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 603,
-    "timeWeek": 440,
-    "timeMonth": 415,
-    "timeYear": 393,
+    "timeDay": 550,
+    "timeWeek": 447,
+    "timeMonth": 418,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-09-05": 0
+      "2023-09-05": 13
     }
   }
 ]
