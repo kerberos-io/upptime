@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
-    "timeDay": 660,
-    "timeWeek": 641,
-    "timeMonth": 620,
+    "timeDay": 714,
+    "timeWeek": 650,
+    "timeMonth": 624,
     "timeYear": 625,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 570,
-    "timeWeek": 542,
-    "timeMonth": 510,
-    "timeYear": 511,
+    "timeDay": 577,
+    "timeWeek": 541,
+    "timeMonth": 511,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 427,
-    "timeWeek": 391,
+    "timeDay": 456,
+    "timeWeek": 411,
     "timeMonth": 410,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,15 @@
     "slug": "hub",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 464,
+    "timeDay": 450,
     "timeWeek": 428,
-    "timeMonth": 406,
+    "timeMonth": 411,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2024-05-18": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
