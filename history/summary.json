@@ -4,54 +4,60 @@
     "url": "https://kerberos.io",
     "icon": "https://icons.duckduckgo.com/ip3/kerberos.io.ico",
     "slug": "public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 693,
-    "timeWeek": 671,
-    "timeMonth": 693,
+    "timeDay": 613,
+    "timeWeek": 669,
+    "timeMonth": 695,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 1
+    }
   },
   {
     "name": "Documentation",
     "url": "https://doc.kerberos.io",
     "icon": "https://icons.duckduckgo.com/ip3/doc.kerberos.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 597,
-    "timeWeek": 524,
-    "timeMonth": 573,
+    "timeDay": 546,
+    "timeWeek": 526,
+    "timeMonth": 574,
     "timeYear": 524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 1
+    }
   },
   {
     "name": "Agent Demo",
     "url": "https://demo.kerberos.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.kerberos.io.ico",
     "slug": "agent-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 340,
+    "timeDay": 453,
     "timeWeek": 403,
-    "timeMonth": 457,
+    "timeMonth": 459,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "Hub",
@@ -65,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 377,
-    "timeWeek": 452,
-    "timeMonth": 432,
-    "timeYear": 415,
+    "timeDay": 313,
+    "timeWeek": 431,
+    "timeMonth": 428,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   }
 ]
