@@ -1,7 +1,7 @@
 url: https://demo.kerberos.io
-status: down
-code: 503
-responseTime: 565
-lastUpdated: 2024-11-20T15:59:55.357Z
+status: up
+code: 200
+responseTime: 535
+lastUpdated: 2024-11-20T16:30:13.115Z
 startTime: 2021-12-22T22:59:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
